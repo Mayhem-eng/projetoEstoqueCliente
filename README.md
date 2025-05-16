@@ -1,4 +1,4 @@
-src/main
+src/main/java
 
 Enums
 Exceptions
